@@ -4,7 +4,7 @@
 #
 Name     : pyroute2.ndb
 Version  : 0.6.4
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/68/ac/fc35b5d62ac6c3245a5c414485b65498c8544b996154bac8d1e44ce8e0f9/pyroute2.ndb-0.6.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/68/ac/fc35b5d62ac6c3245a5c414485b65498c8544b996154bac8d1e44ce8e0f9/pyroute2.ndb-0.6.4.tar.gz
 Summary  : Python Netlink library: NDB module
