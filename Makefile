@@ -1,5 +1,5 @@
 PKG_NAME := pyroute2.ndb
-URL = https://files.pythonhosted.org/packages/68/ac/fc35b5d62ac6c3245a5c414485b65498c8544b996154bac8d1e44ce8e0f9/pyroute2.ndb-0.6.4.tar.gz
+URL = https://files.pythonhosted.org/packages/04/ad/b1463f337c8d9b7d4be04edf187626b9707765be47dfb9f30d03bb053562/pyroute2.ndb-0.6.5.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
